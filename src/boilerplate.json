@@ -1,0 +1,7 @@
+{
+    "name": "PACKAGE_NAME",
+    "version": "0.1.0",
+    "pckp_ver": "PCKP_VERSION",
+    "author": "PACKAGE_AUTHOR",
+    "dependencies": {}
+}
